@@ -5,7 +5,7 @@ void main()
 {
 
 	fun_sample();
-
+	printf("hellow");
 }
 
 
